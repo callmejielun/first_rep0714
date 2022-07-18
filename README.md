@@ -48,8 +48,27 @@
 	* 琳
 
 英雄名|类型|位置
---|:--:|--:
+:--:|:--:|:--:
 拉比克|智力|辅助
 莉娜|智力|中单
 酒仙|力量|劣单
+
+```c
+#include<stdio.h>
+#include<unistd.h>
+int main(void){
+	printf("c../n");
+	return 0;
+}
+```
+
+```cpp
+#include<iostream>
+#include<cstdlib>
+using namespace std;
+int main(){
+	cout<<"cpp"<<endl;
+	return 0;
+}
+```
 
